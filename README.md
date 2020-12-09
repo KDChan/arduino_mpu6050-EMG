@@ -11,3 +11,6 @@ Ensure correct posture and correct force exercise through the movement of the ar
 3. Average
 4. Use Bluetooth
 5. Send data to Android via Bluetooth
+
+### EX
+<img src = "https://user-images.githubusercontent.com/70682288/101593423-390f9e00-3a33-11eb-9df8-f744edda4899.png" width="1000" height="500">
